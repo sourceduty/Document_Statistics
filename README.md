@@ -43,6 +43,18 @@ Document Statistics offers numerous advantages: it enables efficient analysis by
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Retrowriter](https://github.com/sourceduty/Retrowriter)
+<br>
+[Law Document](https://github.com/sourceduty/Law_Document)
+<br>
+[Writing Automation](https://github.com/sourceduty/Writing_Automation)
+<br>
+[Document Anonymizer](https://github.com/sourceduty/Document_Anonymizer)
+<br>
+[Document Fusion](https://github.com/sourceduty/Document_Fusion)
+<br>
+[Document Update](https://github.com/sourceduty/Document_Update)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
