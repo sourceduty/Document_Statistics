@@ -1,5 +1,8 @@
 ![Document](https://github.com/sourceduty/Document_Statistics/assets/123030236/1092eff8-5537-40b4-bd2d-84405d139722)
 
+> Analyze documents and text files by counting characters, blank spaces, lines, word frequency and more. Print the Text Statistics Report.
+#
+
 [Document Statistics](https://chat.openai.com/g/g-QUpREeStD-document-statistics) offers a comprehensive evaluation of textual content within documents. Upon submission of a document or text file, a detailed Text Statistics Report will be generated. This report encompasses a wide array of metrics, including the quantity of blank spaces, numerical digits, and alphabetic characters, with further distinction between uppercase and lowercase letters. It also quantifies the aggregate of letters and digits, line and word counts, and provides an analysis of word and letter frequencies, highlighting the top occurrences. Additionally, the report identifies the longest and shortest words present in the text. Please proceed to upload a document for a tailored analysis.
 
 <details><summary>Example Text Statistics Report</summary>
@@ -35,6 +38,11 @@ Text Statistics Report:
 </details>
 
 Document Statistics offers numerous advantages: it enables efficient analysis by swiftly providing a comprehensive overview of a document's content, saving time typically spent on manual scrutiny; furnishes insights into textual composition, including word and letter frequency and distribution, aiding content optimization and comprehension; assists in editing and writing by identifying overused words or characters, thereby enhancing writing style and readability; facilitates data organization through meaningful statistics, aiding research and analysis for data-driven decisions; and serves as an educational tool, imparting practical knowledge about textual analysis and the significance of various text elements in linguistics and language studies. In summary, Document Statistics significantly enhances the understanding and refinement of textual content, rendering it indispensable for writers, editors, researchers, and educators alike.
+
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
